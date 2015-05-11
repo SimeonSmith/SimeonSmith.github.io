@@ -1,0 +1,230 @@
+#main {
+	margin-top: 250px;
+	position: absolute;
+	margin-bottom: 300px;
+}
+
+#leftBox {
+	position: absolute;
+	width: 400px;
+}
+
+#rightBox {
+	position: absolute;
+	margin-left: 410px;
+	width: 400px;
+}
+
+#sky
+{
+	background-color: #87cefa;
+}
+
+#wrapper
+{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#landscape {
+	position: fixed;
+	bottom: 0px;
+	height: 150px;
+	width: 100%;
+	background-image: url('web_pics/landscape.png');
+	background-repeat: repeat;
+}
+
+div {
+	background-color: #FFFFFF;
+	border-radius: 50px 50px 50px 50px;
+	box-shadow: inset 0px 0px 5px 5px #cdcdc1;
+	padding: 20px;
+}
+.menuCloud 
+{
+	position: absolute;
+	width: 200px;
+	margin-top: 25px;
+	margin-left: -20px;
+}
+
+.headCloud
+{
+	position: absolute;
+	margin-left: 250px;
+	width: 325px;
+	height: 200px;
+}
+
+.dateCloud 
+{
+	position: absolute;
+	width: 180px;
+	margin-left: 640px;
+	margin-top: 50px;
+	padding: 10px;
+}
+
+.verifyCloud 
+{
+	position: absolute;
+	width: 130px;
+	margin-left: 690px;
+	margin-top: 140px;
+	padding: 0px;
+}
+
+.birdCloud {
+	position: fixed;
+	right: 15px;
+	top: 320px;
+	width: 100px;
+	height: 30px;
+}
+
+.horizon {
+	margin-left: -500px;
+	height: 100px; 
+	width: 950px;
+}
+
+.content {
+	width: 350px;
+	margin-bottom: 10px;
+}
+
+.fullContent {
+	width: 750px;
+	margin-bottom: 10px;
+}
+
+.content div {
+	
+	margin-left: 410px;
+	margin-bottom: 10px;
+}
+
+p
+	{
+		font-family: "Arial Black", Gadget, sans-serif;
+		color: #483d8b;
+	}
+	.title {
+		font-size: 175%;
+		text-align: center;
+		margin-top: -10px;
+		margin-bottom: -10px;
+	}
+	.small {
+		font-size: 50%;
+	}
+	.medium {
+		font-size: 80%;
+	}
+	.large {
+		font-size: 110%;
+	}
+	.smallCenter {
+		margin-top: -10px;
+		font-size: 50%;
+		text-align: center;
+		margin-bottom: -10px;
+	}
+	
+	.center {
+		text-align: center;
+	}
+	
+	.right {
+		text-align: right;
+	}
+	
+	.mainTitle {
+		font-size: 250%;
+		margin-top: -20px;
+		margin-bottom: -10px;
+	}
+	
+.cv_text	{
+			  font-family: sans-serif;
+			  font-size: 80%;
+			  margin-left: 6em;
+			  margin-top: 0px;
+			}
+.cv_title	{
+			  font-family: sans-serif;
+			  font-weight: bold;
+			  font-size: 90%;
+			  margin-left: 4em;
+			  margin-bottom: 0px;
+			  margin-top: 0px;
+			}
+.cv_info	{
+			  font-family: sans-serif;
+			  font-size: 80%;
+			  margin-left: 4em;
+			  margin-bottom: 4px;
+			  margin-top: 0px;
+			}
+.cv_area	{
+			  font-family: sans-serif;
+			  font-weight: bold;
+			  font-size: 120%;
+			  margin-left: 2em;
+			  margin-bottom: 2px;
+			}
+.cv_name	{
+			  font-family: sans-serif;
+			  font-weight: bold;
+			  font-size: 200%;
+			  text-align: center;
+			  margin-top: 0px;
+			  margin-bottom: 0px;
+			}
+.cv_address{
+			  font-family: sans-serif;
+			  font-size: 75%;
+			  text-align: center;
+			  margin-bottom: 0px;
+			  margin-top: 0px;
+			}
+			
+table.display {
+	width: 100%;
+}
+
+td.display {
+	border-top: 2px solid #483d8b; 
+	border-bottom: 2px solid #483d8b; 
+	border-radius: 50px 50px 50px 50px;
+	text-align: center;
+	padding: 5px;
+}
+
+img.me {
+	margin-left: 20px;
+	border: 1px solid black;
+	border-radius: 5px 5px 5px 5px;
+}
+
+#bird {
+	margin-top: -150px;
+	margin-left: -20px;
+}
+
+#HotAirBalloon {
+	position: fixed;
+	left: 50px;
+	top: 120px;
+}
+
+#ChalkBoard {
+	background-color: #3cb371;
+	border: 5px solid #cdaf95; 
+	border-radius: 50px 50px 50px 50px;
+	width: 740px;
+	height: 400px;
+}
